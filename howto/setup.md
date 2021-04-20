@@ -12,7 +12,9 @@
 - возможны подпапки.
 - G-код может быть на внешней SD-карте
 
-### sys/board.txt
+###  /sys
+
+#### sys/board.txt
 ```
 board = fly_E3;
 
@@ -30,15 +32,25 @@ stepper.TmcDiagPins 		= { A.2, A.1, C.5};
 heat.tempSensePins 			= { A.3 , A.4 };
 
 ```
-## sys/homex.g
+#### sys/config.g
+Плата Fly-E3 поставляется без прошивки на чипе Wi-Fi.
+
+Откройте файл config.g, который был помещен в папку sys на SD-карте, и закомментируйте любые команды M552, которые там используются; например ; M552 S1.
+
+```
+M552 S1 ; соединение Wi-Fi при запуске
+
+```
+
+#### sys/homex.g
 ```
 ```
 
-## sys/homey.g
+#### sys/homey.g
 ```
 ```
 
-## sys/homez.g
+#### sys/homez.g
 ```
 ```
 I still don’t have a workout sensorless.
