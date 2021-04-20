@@ -1,6 +1,7 @@
 # FLY-RRF-E3
 ## Общая информация
 - [FLY RRF E3 V1.0](https://aliexpress.ru/item/1005001999686167.html)
+  + Input voltage up to 32v 
   + 4 кроватки под драйвера, лучше tmc2209
   + 2 разьема для моторов оси z 
   + 3 куллера
