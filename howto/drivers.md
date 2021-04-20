@@ -1,4 +1,4 @@
-#
+# Drivers
  SPI в настоящее время не поддерживается
 Перемычки должны быть установлены, как показано ниже
 
@@ -22,7 +22,7 @@ Fly-E3 нет отключения диаг вывода, нужно либо в
 
 ![diagpin](https://github.com/alexsuslov/FLY-RRF-E3/blob/master/images/diag_pin.png?raw=true)
 
-У драйверов Fly-2209 есть переключатель для этого
+У драйверов Fly-2209 есть переключатель diag
 
 ![2209](https://github.com/alexsuslov/FLY-RRF-E3/blob/master/images/2209.png?raw=true)
 
