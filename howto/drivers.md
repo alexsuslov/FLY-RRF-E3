@@ -26,4 +26,6 @@ Fly-E3 нет отключения диаг вывода, нужно либо в
 
 ![2209](https://github.com/alexsuslov/FLY-RRF-E3/blob/master/images/2209.png?raw=true)
 
+[ali](https://aliexpress.ru/item/1005002469873370.html)
+
 
