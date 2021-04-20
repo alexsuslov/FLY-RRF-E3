@@ -13,7 +13,7 @@
 
 ## Ось Z
 Для подключения 1 мотора нужно замкнуть второй разьем
-![Z](https://github.com/alexsuslov/FLY-RRF-E3/blob/master/images/uart.png?raw=true)
+![Z](https://github.com/alexsuslov/FLY-RRF-E3/blob/master/images/z.png?raw=true)
 
 ## Driver Diag Pin
 Диагностический вывод драйвера используется для sensorless режима обнаружения остановки.
