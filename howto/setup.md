@@ -1,7 +1,7 @@
 # Setup
 ## Конфигуратор
 
-[Конфигуратор](https://teamgloomy.github.io/Configurator/General)
+[Конфигуратор](https://teamgloomy.github.io/Configurator/)
 
 ## Структура папок на флешке
 
